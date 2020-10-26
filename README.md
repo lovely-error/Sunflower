@@ -1,3 +1,3 @@
 # Sunflower
 
-A description of this package.
+Algebraic laws for all!.
